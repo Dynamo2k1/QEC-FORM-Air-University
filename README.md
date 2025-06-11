@@ -119,5 +119,6 @@ Not affiliated with Air University or QEC.
 ## 🙌 Credits
 
 Developed with ❤️ by Dynamo2k1
+
 Tested at [https://portals.au.edu.pk/qec](https://portals.au.edu.pk/qec)
 
