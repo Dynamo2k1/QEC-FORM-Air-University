@@ -53,9 +53,8 @@ python QEC-FORM.py
 
 You'll be prompted to enter:
 
-* 🎓 Campus name (e.g. `Islamabad`)
-* 👤 Login type (`Student/Alumni` or `Teacher`)
-* 🆔 AU Registration ID (only the digits, e.g. `231309`)
+
+* 🆔 AU Registration ID (only the digits, e.g. `Your_Red_ID`)
 * 🔒 Password (typed securely)
 
 ---
