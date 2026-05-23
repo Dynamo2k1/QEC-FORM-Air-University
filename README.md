@@ -26,7 +26,7 @@ A powerful and simple automation script to fill out **QEC Proformas** (Student C
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/yourusername/QEC-FORM-Air-University.git
+   git clone https://github.com/Dynamo2k1/QEC-FORM-Air-University.git
    cd QEC-FORM-Air-University
    ```
 
